@@ -1,0 +1,29 @@
+html {
+  background: url("img/background.png") no-repeat center fixed;
+  background-size: cover;
+}
+
+body {
+  background-color: rgb(255, 255, 255, 0.75);
+  border-radius: 15px;
+  width: 600px;
+  margin: 25px auto;
+  padding: 25px 150px 25px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+input {
+  width: 550px;
+  margin: 15px auto;
+  height: 30px;
+  border-color: azure;
+}
+
+button {
+  background-color: rgb(255, 255, 255, 0);
+  border-color: rgb(255, 255, 255, 0);
+}
+
+.center {
+  text-align: center;
+}
